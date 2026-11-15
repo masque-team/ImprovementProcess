@@ -28,6 +28,13 @@ Scope ปัจจุบันคือ **Strategy Project / Assist Channel** �
 - `Loop=Y` หมายถึงมีโอกาสวนซ้ำ **ไม่ใช่** วนซ้ำจริงจำนวนหนึ่งครั้ง
 - ภาพก่อนหน้าบางรุ่นมีตัวเลข/ชื่อ Stage คลาดเคลื่อน: **Excel source is the authority**
 
+
+## Verified data & editable visualization
+
+- [Stage-level CSV](data/stage-catalog-summary.csv) — 199 rows / 156 Loop=Y / 196 Tower=R / 195 substantive deliverables / 171 with timing fields
+- [Black/red Rework Board (SVG)](diagrams/as-is-rework-board.svg) — editable, source-grounded perimeter-board concept; cross-stage arrows are illustrative scenarios, not measured occurrences
+- [Document metrics and definitions](docs/03-evidence-and-metrics.md) — precise column mapping and evidence caveats
+
 ## Source references
 
 - Primary: `Improvement Process.xlsx` (provided in ChatGPT conversation; not copied to this repository)
