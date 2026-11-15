@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<title>IT Solution As-Is — 12-stage Rework Board</title>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070b12"/><stop offset="1" stop-color="#14131e"/></linearGradient>
+  <linearGradient id="hot" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#60131f"/><stop offset="1" stop-color="#250c15"/></linearGradient>
+  <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#bac5d3" stroke-width="1.6"/></marker>
+  <marker id="redarr" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#fa3b55" stroke-width="1.6"/></marker>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="14" y="14" width="1572" height="872" rx="28" fill="none" stroke="#3a424b" stroke-width="2"/>
+<rect x="36" y="35" width="9" height="69" rx="4" fill="#ff3452"/>
+<text x="67" y="75" font-size="35" font-family="Arial,sans-serif" font-weight="700" fill="#f8fafc">IT SOLUTION DELIVERY  /  AS-IS</text>
+<text x="68" y="109" font-size="20" font-family="Arial,sans-serif" fill="#aeb9c8">12-stage board · process-catalog evidence · red = rework pathway</text>
+<!-- white forward progress, clockwise -->
+<g fill="none" stroke="#93a2b5" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" opacity=".9">
+<path d="M468 210 H485"/><path d="M771 210 H789"/><path d="M1074 210 H1093"/>
+<path d="M1377 270 V288"/><path d="M1460 435 V446"/>
+<path d="M1460 603 V620"/><path d="M1294 710 H1377"/>
+<path d="M1088 710 H1080"/><path d="M785 710 H777"/><path d="M482 710 H474"/>
+<path d="M125 642 V609"/><path d="M125 457 V448"/>
+</g>
+<g>
+ <rect x="192" y="145" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="220" cy="173" r="21" fill="#374151"/>
+ <text x="220" y="181" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">1</text>
+ <text x="251" y="178" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Approval Requirement</text>
+ <text x="208" y="223" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">IT assessment · BRD</text>
+ <rect x="206" y="243" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="335.5" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">12 entries  ·  9 flagged</text>
+ </g><g>
+ <rect x="495" y="145" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="523" cy="173" r="21" fill="#374151"/>
+ <text x="523" y="181" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">2</text>
+ <text x="554" y="178" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Demand Governance</text>
+ <text x="511" y="223" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Revise BRD · SOW</text>
+ <rect x="509" y="243" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="638.5" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">8 entries  ·  8 flagged</text>
+ </g><g>
+ <rect x="798" y="145" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="826" cy="173" r="21" fill="#374151"/>
+ <text x="826" y="181" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">3</text>
+ <text x="857" y="178" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Demand Prioritization</text>
+ <text x="814" y="223" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Coordinate BRD sign-off</text>
+ <rect x="812" y="243" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="941.5" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">1 entries  ·  1 flagged</text>
+ </g><g>
+ <rect x="1101" y="145" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="1129" cy="173" r="21" fill="#374151"/>
+ <text x="1129" y="181" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">4</text>
+ <text x="1160" y="178" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Approval Architecture</text>
+ <text x="1117" y="223" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">RFI / RFP · Impact · ARB</text>
+ <rect x="1115" y="243" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="1244.5" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">14 entries  ·  13 flagged</text>
+ </g><g>
+ <rect x="1299" y="299" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="1327" cy="327" r="21" fill="#374151"/>
+ <text x="1327" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">5</text>
+ <text x="1358" y="332" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Approval Budget</text>
+ <text x="1315" y="377" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">SCB / Finance review</text>
+ <rect x="1313" y="397" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="1442.5" y="419" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">5 entries  ·  3 flagged</text>
+ </g><g>
+ <rect x="1299" y="457" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="1327" cy="485" r="21" fill="#374151"/>
+ <text x="1327" y="493" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">6</text>
+ <text x="1358" y="490" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Resource 6.1 OR 6.2</text>
+ <text x="1315" y="535" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Allocate 9  |  Bid 12</text>
+ <rect x="1313" y="555" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="1442.5" y="577" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">9 OR 12 catalog entries</text>
+ </g><g>
+ <rect x="1101" y="642" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="1129" cy="670" r="21" fill="#374151"/>
+ <text x="1129" y="678" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">7</text>
+ <text x="1160" y="675" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Resource Acquire</text>
+ <text x="1117" y="720" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Vendor interviews · RFP</text>
+ <rect x="1115" y="740" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="1244.5" y="762" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">7 entries  ·  7 flagged</text>
+ </g><g>
+ <rect x="798" y="642" width="287" height="139" rx="21" fill="url(#hot)" stroke="#ff405b" stroke-width="4"/>
+ <circle cx="826" cy="670" r="21" fill="#ef233d"/>
+ <text x="826" y="678" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">8</text>
+ <text x="857" y="675" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Project Dev / SDLC</text>
+ <text x="814" y="720" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Build · Integrate · SRA</text>
+ <rect x="812" y="740" width="259" height="30" rx="14" fill="#92263b"/>
+ <text x="941.5" y="762" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#fff">100 entries  ·  87 flagged</text>
+ </g><g>
+ <rect x="495" y="642" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="523" cy="670" r="21" fill="#374151"/>
+ <text x="523" y="678" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">9</text>
+ <text x="554" y="675" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Quality Approval</text>
+ <text x="511" y="720" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Test evidence · Code scan</text>
+ <rect x="509" y="740" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="638.5" y="762" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">9 entries  ·  loop: not captured</text>
+ </g><g>
+ <rect x="192" y="642" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="220" cy="670" r="21" fill="#374151"/>
+ <text x="220" y="678" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">10</text>
+ <text x="251" y="675" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Technical Readiness</text>
+ <text x="208" y="720" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Runbook · WR/WI · audit</text>
+ <rect x="206" y="740" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="335.5" y="762" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">8 entries  ·  7 flagged</text>
+ </g><g>
+ <rect x="12" y="457" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="40" cy="485" r="21" fill="#374151"/>
+ <text x="40" y="493" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">11</text>
+ <text x="71" y="490" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">Go-live &amp; Monitoring</text>
+ <text x="28" y="535" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Deploy · Day-2 · OJT</text>
+ <rect x="26" y="555" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="155.5" y="577" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">8 entries  ·  loop: not captured</text>
+ </g><g>
+ <rect x="12" y="299" width="287" height="139" rx="21" fill="#17202b" stroke="#66727f" stroke-width="2"/>
+ <circle cx="40" cy="327" r="21" fill="#374151"/>
+ <text x="40" y="335" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#fff">12</text>
+ <text x="71" y="332" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#fff">After Go-live Support</text>
+ <text x="28" y="377" font-family="Arial,sans-serif" font-size="17" fill="#cfdae5">Incidents · Infra changes</text>
+ <rect x="26" y="397" width="259" height="30" rx="14" fill="#222e3b"/>
+ <text x="155.5" y="419" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#c6d1df">6 entries  ·  loop: not captured</text>
+ </g>
+<!-- Conceptual cross-stage rework, arrows do not indicate measured frequency -->
+<g fill="none" stroke="#fa3b55" stroke-width="5" stroke-linecap="round" stroke-dasharray="14 10" marker-end="url(#redarr)">
+ <path d="M1230 286 C1160 328 780 335 630 285"/>
+ <path d="M1400 438 C1330 352 1180 342 1030 286"/>
+ <path d="M295 643 C380 598 690 604 850 641"/>
+ <path d="M280 440 C420 500 640 570 910 641"/>
+</g>
+<!-- center panel -->
+<rect x="366" y="344" width="850" height="247" rx="34" fill="#0b1017" stroke="#a82d3e" stroke-width="3"/>
+<circle cx="452" cy="442" r="52" fill="#310d18" stroke="#ff4f68" stroke-width="4"/>
+<path d="M425 424 L480 424 L452 448 L480 475 L425 475 L452 449 Z" fill="none" stroke="#f7a9b6" stroke-width="5"/>
+<text x="533" y="420" font-size="34" font-weight="800" fill="#ff405b" font-family="Arial,sans-serif">WORK RETURNS TO TOWER</text>
+<text x="533" y="460" font-size="20" fill="#fff" font-family="Arial,sans-serif">BRD revision · budget/cost re-estimate · rejected evidence</text>
+<text x="533" y="492" font-size="20" fill="#fff" font-family="Arial,sans-serif">failed tests · post-production changes</text>
+<text x="533" y="531" font-size="16" fill="#b9c4d1" font-family="Arial,sans-serif">Loop paths are scenarios, NOT actual frequency or observed lost days</text>
+<text x="54" y="860" font-size="17" fill="#b4c1ce" font-family="Arial,sans-serif">Source: Improvement Process.xlsx · Stage 6.1 OR 6.2 · 199 catalog entries incl. alternatives</text>
+<text x="1548" y="860" text-anchor="end" font-size="17" fill="#fe5570" font-family="Arial,sans-serif">STEP 8: 100 entries / 87 loop flags</text>
+</svg>
