@@ -1,0 +1,15 @@
+stage,stage_name,catalog_rows,loop_flag_Y,tower_R,substantive_deliverables,rows_with_time_min_and_max,workstream
+1,Approval Requirement,12,9,11,12,11,Requirement & Demand
+2,Demand Governance,8,8,8,8,8,Requirement & Demand
+3,Demand Prioritization,1,1,0,1,1,Solution & Governance
+4,Approval Architecture,14,13,13,13,13,Solution & Governance
+5,Approval Budget,5,3,5,3,5,Budget & Resource
+6.1,Resource Allocate (Existing),9,9,9,9,9,Budget & Resource
+6.2,Resource Acquire (Bidding),12,12,12,12,12,Budget & Resource
+7,Resource Acquire (Bidding),7,7,7,7,7,Budget & Resource
+8,Project Development (SDLC),100,87,100,100,87,Development
+9,Quality Approval,9,0,9,9,0,Quality & Readiness
+10,Technical Readiness Approval,8,7,8,7,7,Quality & Readiness
+11,Go-live and Monitoring,8,0,8,8,5,Go-live
+12,After Go-live Support,6,0,6,6,6,Post Go-live Support
+TOTAL,ALL (includes alternatives),199,156,196,195,171,Mixed
